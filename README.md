@@ -1,4 +1,4 @@
-# Front-end-web-store
+# Front-end-web-store.
 Zaka Store adalah front end yg masih dikembangkan dan akan terus di upgrade 
 ini full mengunakan html tanpa menggunakan frame work apapun 
 # kalian bisa bebas menggunakan code ini 
