@@ -12,4 +12,7 @@ ini full mengunakan html tanpa menggunakan frame work apapun
 jika ada pertanyaan bisa langsung tanya 
 no :085257802904
 
+## hasil web 
+https://zakafahmi.github.io/ZakaStore/
+
 ![logo](https://raw.githubusercontent.com/zakafahmi/Front-end-web-store/main/2021-04-22_21-17.png)
